@@ -11,8 +11,8 @@ public class Bird : Animal // INHERITANCE
     }
     public float flySpeed // ENCAPSULATION
 {
-    get { return flySpeed; } 
-    set { flySpeed = value; } 
+    get { return speed; } 
+    set { speed = value; } 
 }
 
 }
